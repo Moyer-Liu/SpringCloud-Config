@@ -10,4 +10,4 @@ eureka:
     serviceUrl:
       defaultZone: http://user:password123@localhost:8761/eureka
 
-info: download successfully
+info: Download successfully
